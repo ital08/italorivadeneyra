@@ -49,11 +49,11 @@ table {
 }
 .titulo{
   text-align: center;
-  margin-top: 10%;
+  margin-top: 2%;
 }
 .caja-content{
-  margin-top: 10%;
-  margin-bottom: 10%;
+  margin-top: 5%;
+  margin-bottom: 5%;
 }
 .contacto{
   text-align: center;
@@ -64,7 +64,14 @@ table {
   size: 20px;
 }
 .texto1{
-  justify-content: center;
   text-align: center;
   color: aliceblue;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.logos{
+  /* disponible */
+  margin-top: 20px;
+  margin-left: 10%;
+  margin-right: 10%;
 }
