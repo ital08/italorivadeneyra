@@ -38,11 +38,14 @@ ins {
 del {
   text-decoration: line-through;
 }
-contenerdor{
+.contenedor{
   background-color: rgb(34, 34, 34);
   color: aliceblue;
 }
 table {
   border-collapse: collapse;
   border-spacing: 0;
+}
+.titulo{
+  text-align: center;
 }
