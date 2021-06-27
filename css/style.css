@@ -17,6 +17,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 }
 body {
   margin: 1rem;
+  background-color: rgb(34, 34, 34);
 }
 ol, ul {
   list-style: none;
@@ -48,4 +49,8 @@ table {
 }
 .titulo{
   text-align: center;
+}
+img{
+  height: 100%;
+  width: 100%;
 }
