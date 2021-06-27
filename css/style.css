@@ -16,8 +16,8 @@ table, caption, tbody, tfoot, thead, tr, th, td {
   background: transparent;
 }
 body {
-  margin: 1rem;
   background-color: rgb(34, 34, 34);
+  font: condensed 120% sans-serif;
 }
 ol, ul {
   list-style: none;
@@ -49,17 +49,22 @@ table {
 }
 .titulo{
   text-align: center;
-}
-.img-profile{
-  size: 100%;
+  margin-top: 10%;
 }
 .caja-content{
-  margin: 20px;
-  display: flex;
+  margin-top: 10%;
+  margin-bottom: 10%;
 }
 .contacto{
-  text-align:center;
+  text-align: center;
+  display: flex;
+  
 }
 .logo-redes{
-  image-resolution: 20px;
+  size: 20px;
+}
+.texto1{
+  justify-content: center;
+  text-align: center;
+  color: aliceblue;
 }
